@@ -10,7 +10,7 @@ nav {
 h1 {
   font-size: 60px;
 }
-.designed {
+#designed {
   background-image: url("flatbuilding.png");
   color: white;
   font-weight: bold;
@@ -18,4 +18,14 @@ h1 {
 }
 .footer {
   text-align: left;
+  background-color: gray;
+  color: white;
+  font-weight: bold;
+  font-size: 12px;
+}
+a {
+  color: white;
+}
+h2, h3, p {
+  color: black;
 }
