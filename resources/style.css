@@ -1,3 +1,21 @@
 .broadwaypage {
   text-align: center;
+  font-family: verdana;
+}
+nav {
+  background-image: url("flatbuilding.png");
+  color: white;
+  font-weight: bold;
+}
+h1 {
+  font-size: 60px;
+}
+.designed {
+  background-image: url("flatbuilding.png");
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}
+.footer {
+  text-align: left;
 }
