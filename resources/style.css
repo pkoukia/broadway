@@ -4,6 +4,9 @@
 }
 nav {
   background-image: url("flatbuilding.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   color: white;
   font-weight: bold;
 }
@@ -12,6 +15,9 @@ h1 {
 }
 #designed {
   background-image: url("flatbuilding.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   color: white;
   font-weight: bold;
   font-size: 30px;
